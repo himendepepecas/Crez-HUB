@@ -1,4 +1,3 @@
-getgenv().CrezSafe = false -- ou false
 --// CREZ hub | Roblox | executor
 -- SAFE MODE: launcher pergunta antes de carregar. ON = zero hookmetamethod/hookfunction e features server-visible travadas.
 -- pular o launcher: getgenv().CrezSafe = true / false antes do loadstring (autoexec)
